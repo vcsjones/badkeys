@@ -12,7 +12,7 @@ These keys exist for researchers, enthusiasts, and testers to understand the aff
 and properties of using a bad key. Such uses could be, but are not limited to:
 
 * Determining how software handles being given bad a bad key. A tester may wish to know
-how a particlar peice of software works or behaves when it has been configured with a
+how a particular piece of software works or behaves when it has been configured with a
 weak or broken key, such as a web server.
 
 * Learning properties of bad keys. You may wish to see if you can recover the private
